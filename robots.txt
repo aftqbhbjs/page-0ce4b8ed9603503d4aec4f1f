@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-997fb8ff41.hehua58.cn/sitemap.xml
